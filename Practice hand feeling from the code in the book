@@ -9,3 +9,11 @@ int main(void)
     printf("let's start %d.\n",num);
     return 0;
 }
+
+
+//鼓捣来鼓捣去，也没弄明白。 在编译器中无法运行这个文件。
+  显示报错clang: error: no input files
+  下载了github的软件。也没弄明白。
+  明天还是先从基础弄起。 
+  在编译器打完运行完代码 直接拷贝到这里。
+  等渐渐明白，在研究github的用法。
